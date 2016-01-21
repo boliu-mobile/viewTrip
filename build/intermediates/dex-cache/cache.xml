@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_78b970a68c12830a28ea6aa17772f35717e1f689.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b0f9ef1689721b1adf52b9dd600eed9d76ace71a.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/Projects/road-trip/application/lib/androidsvg-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b8e2b5de0473fdac58cbfb4bc1ef751b09125c4">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/androidsvg-1.2.0_d753c0c6ade361fe398f91fe997bd44040e49a81.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/Projects/road-trip/application/lib/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_44c6c4d21baddadff0c2436cbb6487cec3e1d891.jar" />
+    </item>
+    <item
+        jar="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_26b7457049e2fbc6858a1afe05f31e2d31f43eb8.jar" />
+    </item>
+    <item
+        jar="/Applications/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_1b21a3b634691392f691bedbf047fa7bcec4047f.jar" />
+    </item>
+
+</items>

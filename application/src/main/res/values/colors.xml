@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff009fd6</color>
+    <color name="accent2">#ff509b35</color>
+
+    <color name="az">#ff509b35</color>
+    <color name="ca">#ff009fd6</color>
+    <color name="ut">#ffbd3434</color>
+
+    <!-- App Primary View Colors (might be deprecated). -->
+    <color name="app_primary_accent">#FF26C6DA</color>
+    <color name="app_secondary_accent">#1A000000</color>
+    <color name="app_primary_text">#444444</color>
+    <color name="app_secondary_text">#444444</color>
+    <color name="app_white">#FFFEFEFE</color>
+    <color name="app_io_logo_tint">#FF26C6DA</color>
+    <color name="divider">#1f000000</color>
+
+    <!-- video lib -->
+    <color name="video_title">#de07434d</color>
+    <color name="filter_text">@color/app_primary_text</color>
+    <color name="video_scrim_watched">#b3f1f1f1</color>
+</resources>

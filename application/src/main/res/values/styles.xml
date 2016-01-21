@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Prevents crash on certain devices to namespace conflict -->
+    <style name="FrameworkRoot.Theme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <!-- Immediate parent theme to specify base values for custom attributes -->
+    <style name="Theme" parent="FrameworkRoot.Theme" />
+
+    <style name="Theme.Viewtrip.Base" parent="Theme">
+        <item name="actionBarIconColor">#fff</item>
+        <item name="actionBarInsetStart">@dimen/keyline_2</item>
+        <item name="spinnerBarInsetStart">@dimen/keyline_2_minus_16dp</item>
+        <item name="popupItemBackground">?android:selectableItemBackground</item>
+        <item name="photoItemForeground">?android:selectableItemBackground</item>
+        <item name="photoItemForegroundBorderless">?android:selectableItemBackground</item>
+        <item name="imageItemBackground">?android:selectableItemBackground</item>
+        <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+    </style>
+
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    </style>
+
+    <style name="Widget.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <!-- Intermediary theme for SessionDetails (so we can override it on large screens) -->
+    <style name="Theme.viewtrip.SessionDetails.Base" parent="Theme.Viewtrip.Base">
+        <item name="isFloatingWindow">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <!-- Session Details -->
+    <style name="Theme.viewtrip.SessionDetails" parent="Theme.viewtrip.SessionDetails.Base" />
+
+
+</resources>

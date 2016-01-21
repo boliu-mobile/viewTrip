@@ -1,0 +1,3 @@
+/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/classes/debug
+/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-44c6c4d21baddadff0c2436cbb6487cec3e1d891.jar
+/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/pre-dexed/debug/androidsvg-1.2.0-d753c0c6ade361fe398f91fe997bd44040e49a81.jar

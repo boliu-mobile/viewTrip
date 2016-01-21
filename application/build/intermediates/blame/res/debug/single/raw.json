@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/res/merged/debug/raw/map_ca.svg",
+        "source": "/Users/boliu/Documents/startUp/Projects/road-trip/application/src/main/res/raw/map_ca.svg"
+    },
+    {
+        "merged": "/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/res/merged/debug/raw/map_country_china.svg",
+        "source": "/Users/boliu/Documents/startUp/Projects/road-trip/application/src/main/res/raw/map_country_china.svg"
+    },
+    {
+        "merged": "/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/res/merged/debug/raw/map_ut.svg",
+        "source": "/Users/boliu/Documents/startUp/Projects/road-trip/application/src/main/res/raw/map_ut.svg"
+    },
+    {
+        "merged": "/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/res/merged/debug/raw/map_az.svg",
+        "source": "/Users/boliu/Documents/startUp/Projects/road-trip/application/src/main/res/raw/map_az.svg"
+    },
+    {
+        "merged": "/Users/boliu/Documents/startUp/Projects/road-trip/application/build/intermediates/res/merged/debug/raw/map_usa.svg",
+        "source": "/Users/boliu/Documents/startUp/Projects/road-trip/application/src/main/res/raw/map_usa.svg"
+    }
+]
